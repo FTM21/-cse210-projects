@@ -91,7 +91,7 @@ class Program
     }  
 }  
 
-// I have add: "What is the scripture you have read today?" - The code exceeds requirements by
+// I have add: "What is the scripture you have read today?" ___ The code exceeds requirements by
  //integrating a spiritual reflection element with the scripture reading prompt. This addition enriches
  // the journal application by encouraging daily scripture study alongside personal reflection, creating
    //a more holistic journaling experience.
