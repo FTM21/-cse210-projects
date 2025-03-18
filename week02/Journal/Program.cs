@@ -8,7 +8,8 @@ class Program
     {  
         List<string> entries = new List<string>();  
         string[] prompts = {  
-            "Who was the most interesting person I interacted with today?",  
+            "Who was the most interesting person I interacted with today?", 
+            "What is the scripture you have read today?",
             "What was the best part of my day?",  
             "How did I see the hand of the Lord in my life today?",  
             "What was the strongest emotion I felt today?",  
@@ -89,3 +90,8 @@ class Program
         Console.WriteLine("Exiting the program.");  
     }  
 }  
+
+// I have add: "What is the scripture you have read today?" - The code exceeds requirements by
+ //integrating a spiritual reflection element with the scripture reading prompt. This addition enriches
+ // the journal application by encouraging daily scripture study alongside personal reflection, creating
+   //a more holistic journaling experience.
