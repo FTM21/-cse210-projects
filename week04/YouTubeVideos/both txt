@@ -1,0 +1,66 @@
+
+// Youtube comments +------------------+  
+
++------------------+  
+|     Comment      |  
++------------------+  
+| - CommenterName  |  
+| - CommentText    |  
++------------------+  
+| + Comment()      |  
++------------------+  
+
++------------------+  
+|      Video       |  
++------------------+  
+| - Title          |  
+| - Author         |  
+| - LengthInSeconds|  
+| - List<Comment>  |  
++------------------+  
+| + AddComment()   |  
+| + GetCommentCount() |  
+| + GetComments()  |  
++------------------+  
+
++-------------------+  
+|   VideoManager     |  
++-------------------+  
+| - List<Video>     |  
++-------------------+  
+| + AddVideo()      |  
+| + SearchVideos()  |  
++-------------------+  
+
+
+// onlineOrdering 
++------------------+  
+|     Comment      |  
++------------------+  
+| - CommenterName  |  
+| - CommentText    |  
++------------------+  
+| + Comment()      |  
++------------------+  
+
++------------------+  
+|      Video       |  
++------------------+  
+| - Title          |  
+| - Author         |  
+| - LengthInSeconds|  
+| - List<Comment>  |  
++------------------+  
+| + AddComment()   |  
+| + GetCommentCount() |  
+| + GetComments()  |  
++------------------+  
+
++-------------------+  
+|   VideoManager     |  
++-------------------+  
+| - List<Video>     |  
++-------------------+  
+| + AddVideo()      |  
+| + SearchVideos()  |  
++-------------------+  
